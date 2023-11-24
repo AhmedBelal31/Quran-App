@@ -37,3 +37,7 @@ A new Flutter project.
 
 
 
+
+https://github.com/AhmedBelal31/Quran-App/assets/131663660/76c0d5cd-5e10-4613-b1a5-ca353b90b9c5
+
+
